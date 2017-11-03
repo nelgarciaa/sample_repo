@@ -1,0 +1,15 @@
+Terminal=1
+BranchId=10
+Com=3
+Disp1=WELCOME TO
+Disp2=STORE
+Server=127.0.0.1
+UserId=root
+Password=1JvGsFBgA6fydZYfuk3kEw==
+Database=pos_retail
+TelNo=
+OrFooter1=THIS SERVES AS AN OFFICIAL RECEIPT. BRING THIS RECEIPT IN CASE OF EXCHANGE OF MERCHANDISE WITHIN 2 DAYS
+OrFooter2=THANK YOU AND COME AGAIN!
+OrFooter3=
+OrFooter4=
+ColorTheme=0
